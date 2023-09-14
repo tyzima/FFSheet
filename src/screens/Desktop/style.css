@@ -1,0 +1,449 @@
+.desktop {
+  background-color: #f2f3f7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #f2f3f7;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop .overlap {
+  border-radius: 10px;
+  height: 781px;
+  left: 418px;
+  position: absolute;
+  top: 121px;
+  width: 603px;
+}
+
+.desktop .sheet-template {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dfdfdf;
+  border-radius: 10px;
+  box-shadow: 0px 0px 32px #0000000d;
+  height: 781px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 603px;
+}
+
+.desktop .print-typesand-logos {
+  background-image: url(https://c.animaapp.com/3HPLS3ec/img/background-neverchanges-.png);
+  background-size: 100% 100%;
+  height: 706px;
+  left: -1px;
+  position: relative;
+  top: 57px;
+}
+
+.desktop .options-change {
+  background-color: #f8f9fa;
+  border: 1px solid;
+  border-color: #dedede;
+  border-radius: 5px;
+  box-shadow: 0px 1.44px 1.44px #0000000d;
+  height: 31px;
+  left: 9px;
+  position: absolute;
+  top: 41px;
+  width: 141px;
+}
+
+.desktop .overlap-group {
+  height: 19px;
+  left: -34px;
+  position: relative;
+  top: 6px;
+  width: 210px;
+}
+
+.desktop .image {
+  height: 12px;
+  left: 152px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.desktop .div-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 67.11px 0px 67.3px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .text-wrapper {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 19.4px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop .overlap-wrapper {
+  background-color: #f8f9fa;
+  border: 1px solid;
+  border-color: #dedede;
+  border-radius: 5px;
+  box-shadow: 0px 1.44px 1.44px #0000000d;
+  height: 31px;
+  left: 9px;
+  position: absolute;
+  top: 78px;
+  width: 141px;
+}
+
+.desktop .overlap-2 {
+  height: 19px;
+  left: -32px;
+  position: relative;
+  top: 6px;
+  width: 204px;
+}
+
+.desktop .img {
+  height: 12px;
+  left: 149px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.desktop .logo-dragor-clickto {
+  height: 92px;
+  left: 497px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 90px;
+}
+
+.desktop .logo-dragor-clickto-2 {
+  height: 92px;
+  left: 295px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 90px;
+}
+
+.desktop .logo-dragor-clickto-3 {
+  height: 92px;
+  left: 396px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 90px;
+}
+
+.desktop .logo-dragor-clickto-4 {
+  height: 92px;
+  left: 194px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 90px;
+}
+
+.desktop .canvas-for-dragging {
+  background-color: #d9d9d9;
+  height: 408px;
+  left: 30px;
+  position: absolute;
+  top: 149px;
+  width: 543px;
+}
+
+.desktop .color-dropdown {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 5px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+}
+
+.desktop .overlap-group-wrapper {
+  background-color: #f8f9fa;
+  border: 1px solid;
+  border-color: #dedede;
+  border-radius: 5px;
+  box-shadow: 0px 1.44px 1.44px #0000000d;
+  height: 31px;
+  position: relative;
+  width: 111px;
+}
+
+.desktop .overlap-group-2 {
+  height: 19px;
+  left: -30px;
+  position: relative;
+  top: 6px;
+  width: 171px;
+}
+
+.desktop .image-2 {
+  height: 12px;
+  left: 118px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.desktop .overlap-3 {
+  height: 19px;
+  left: -28px;
+  position: relative;
+  top: 6px;
+  width: 166px;
+}
+
+.desktop .image-3 {
+  height: 12px;
+  left: 115px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.desktop .options-saveaspdf {
+  background-color: #f8f9fa;
+  border: 1px solid;
+  border-color: #dedede;
+  border-radius: 5px;
+  box-shadow: 0px 1.44px 1.44px #0000000d;
+  height: 36px;
+  left: 896px;
+  position: absolute;
+  top: 66px;
+  width: 125px;
+}
+
+.desktop .overlap-4 {
+  height: 19px;
+  position: relative;
+  top: 8px;
+}
+
+.desktop .image-4 {
+  height: 12px;
+  left: 102px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.desktop .div-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 81px 0px 67.3px;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.desktop .text-wrapper-2 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 19.4px;
+  margin-left: -39.65px;
+  margin-right: -39.65px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop .overlap-5 {
+  height: 36px;
+  left: 750px;
+  position: absolute;
+  top: 66px;
+  width: 130px;
+}
+
+.desktop .page {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee2e6;
+  border-radius: 3.6px 0px 0px 3.6px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 10.19px 26.81px 10.61px 11.79px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.desktop .div-placeholder {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -195.6px;
+  padding: 0px 215.42px 0px 0px;
+  position: relative;
+  width: 189px;
+}
+
+.desktop .text-wrapper-3 {
+  color: #6c757d;
+  font-family: "Roboto", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -34.42px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop .div-placeholder-wrapper {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee2e6;
+  border-radius: 3.6px 0px 0px 3.6px;
+  display: flex;
+  flex-direction: column;
+  left: 28px;
+  padding: 10.19px 26.81px 10.61px 11.79px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.desktop .selectedpage {
+  align-items: flex-start;
+  background-color: #f3f3f3;
+  border: 1px solid;
+  border-color: #dee2e6;
+  border-radius: 3.6px 0px 0px 3.6px;
+  display: flex;
+  flex-direction: column;
+  left: 57px;
+  padding: 10.19px 26.81px 10.61px 11.79px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.desktop .add-another-page {
+  align-items: center;
+  background-color: #f8f9fa;
+  border: 1px solid;
+  border-color: #ced4da;
+  border-radius: 0px 3.6px 3.6px 0px;
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  left: 88px;
+  padding: 6.09px 12.59px 7.71px 12.8px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.desktop .text-wrapper-4 {
+  color: #000000;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop .salesforce-PROJ {
+  height: 36px;
+  left: 418px;
+  position: absolute;
+  top: 66px;
+  width: 250px;
+}
+
+.desktop .overlap-6 {
+  height: 36px;
+  position: relative;
+}
+
+.desktop .projnumbersalesforce {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dee2e6;
+  border-radius: 3.6px 0px 0px 3.6px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 10.19px 26.81px 10.61px 11.79px;
+  position: absolute;
+  top: 0;
+  width: 209px;
+}
+
+.desktop .proj-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -18.6px;
+  padding: 0px 215.42px 0px 0px;
+  position: relative;
+  width: 189px;
+}
+
+.desktop .proj {
+  background-color: transparent;
+  border: 0;
+  color: #6c757d;
+  flex: 0 0 auto;
+  font-family: "Roboto", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -103.42px;
+  margin-top: -1px;
+  padding: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.desktop .span-bg-light {
+  height: 36px;
+  left: 208px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
